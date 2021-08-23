@@ -1,2 +1,2 @@
-# Machine_Learning_Algorithm
+# Machine_Learning_Algorithms
 - Machine Learning Algorithm (Tutorial)
