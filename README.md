@@ -5,3 +5,4 @@
 2) K-Nearest Neighbors (KNN)
 3) Decision Tree 
 4) Logistic Regression
+5) Support Vector Machine (SVM)
